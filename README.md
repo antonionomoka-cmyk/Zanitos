@@ -19,8 +19,7 @@ O Zenitos++ é uma camada de abstração para C++ que permite a iniciantes progr
 ## 🛠️ Instalação Global (NetHunter / Kali / Termux)
 
 Para instalar a biblioteca no seu sistema e usar em qualquer pasta, siga os passos abaixo:
-Use github.com/antonionomoka-cmyk/Zanitos/main/installer.sh
-para a instlação Global automaticamente.
+Use wget https://raw.githubusercontent.com/antonionomoka-cmyk/Zanitos/main/installer.sh para a instlação Global automaticamente.
 ## 💻 Exemplo de Código
 
 O **Zenitos** simplifica a sintaxe do C++, tornando-a mais amigável:
