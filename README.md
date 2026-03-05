@@ -26,7 +26,7 @@ Para instalar a biblioteca no seu sistema e usar em qualquer pasta, siga os pass
 2. **Instale via Terminal:**
 ```bash
 # Extraia o arquivo
-unzip zenitos_v1.zip
+unzip Zenitos++.zip
 
 # No NetHunter/Kali (Global):
 sudo cp zenitos.h /usr/local/include/
@@ -37,6 +37,6 @@ sudo ldconfig
 cp zenitos.h $PREFIX/include/
 cp libzenitos.a $PREFIX/lib/
 
-👤 Autor
+#👤Autor
 Antonio Gabriel(antonionomoka-cmyk)
 Desenvolvedor de 14 anos focado em tornar a programação C++ acessível para brasileiros.
