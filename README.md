@@ -20,7 +20,7 @@ O Zenitos++ é uma camada de abstração para C++ que permite a iniciantes progr
 
 Para instalar a biblioteca no seu sistema, baixe o arquivo pelo link abaixo:
 
-1. **Download:** [Clique aqui para baixar via MediaFire](https://download1590.mediafire.com/8rm6mb6g0n8gPqd7oY6Ljomr9dZhnsNFZiLVZjQv540AgdNzcY30k5eIgfQ-S6AK2MbQWNZvVJSdBF7c3B24qi4_ttnAfd70xD5W6cKSwSUNsVvdjSeGOSx9U3tSyvwWxeGg5quJ6aSkRrYctWBPbWBz-Q73wInp73Rr_y08_DlO/uxjugepqbscgoei/Zanitos%2B%2B.zip)
+1. **Download:** [Clique aqui para baixar via MediaFire](https://download1590.mediafire.com/pkp6cadhnpcg2O2cq8YbdoZBORhO_sjP066CZ1iGjLt8AIT67hTjDTEIZr8ob5bdJJl5meHiTI4QNLv6fve2oPeh2dvYcaFaX5gHuME-ZMAZ4UL_DRpLTocxpZxHGnM7G2A0sH0Tx5Yw7D4CAYCQ85kGdZgePlPdzMliRvYQTfpD/uxjugepqbscgoei/Zenitos%2B%2B.zip)
 
 2. **Extração e Instalação:**
 Abra o seu terminal na pasta onde baixou o arquivo e use:
