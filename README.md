@@ -37,6 +37,18 @@ sudo ldconfig
 cp zenitos.h $PREFIX/include/
 cp libzenitos.a $PREFIX/lib/
 
+## 💻 Exemplo de Código
+
+O **Zenitos** simplifica a sintaxe do C++, tornando-a mais amigável:
+
+```cpp
+#include <zenitos.h>
+
+principal {
+    print("Olá mundo");
+    retornar 0;
+}
+
 #👤Autor
 Antonio Gabriel(antonionomoka-cmyk)
 Desenvolvedor de 14 anos focado em tornar a programação C++ acessível para brasileiros.
